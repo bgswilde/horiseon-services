@@ -1,4 +1,4 @@
-# Horiseon Social Solution Services, Code Refactor
+# Horiseon Social Solution Services, Code Refactor.
 
 ## Description
 
